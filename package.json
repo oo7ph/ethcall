@@ -6,7 +6,8 @@
   "author": "Timur Badretdinov <destinerx@gmail.com>",
   "scripts": {
     "build": "tsc",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "install": "npm run build" 
   },
   "repository": {
     "type": "git",
